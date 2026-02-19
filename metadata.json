@@ -1,0 +1,7 @@
+{
+  "name": "RoyalGoa Rentals - Premium Vehicle Experience",
+  "description": "A luxury car and bike rental platform in Goa featuring an AI-powered travel concierge and seamless booking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
